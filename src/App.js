@@ -13,37 +13,6 @@ function App() {
             <h1>Hello</h1>
             <p>Good Afternoon</p>
         </div>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-        <h1>Hello World</h1>
-
     </div>
   );
 }
