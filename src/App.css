@@ -40,6 +40,11 @@
   flex : 1;
 }
 
+.card >input{
+  border-radius: 99px;
+  outline-width : 0;
+}
+
 
 
 

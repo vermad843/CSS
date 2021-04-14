@@ -15,6 +15,7 @@ function App() {
         </div>
         <div className = "card">
            <h1>Card</h1>
+           <input/>
         </div>
     </div>
   );
