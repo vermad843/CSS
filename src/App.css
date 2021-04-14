@@ -38,6 +38,7 @@
 .card >h1 {
   display: flex;
   flex : 1;
+  text-transform : uppercase;
 }
 
 .card >input{
