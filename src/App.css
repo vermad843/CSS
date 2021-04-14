@@ -8,3 +8,12 @@
   align-items : center;
   border : 1px solid lightgrey;
 }
+
+
+.banner {
+  position: relative;
+  top : 200px;
+  right : 10px;
+  left : 370px;
+  bottom : 1000px;
+}

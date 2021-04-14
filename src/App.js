@@ -9,6 +9,9 @@ function App() {
             <p>Goa</p>
             <h2>Gone</h2>
         </div>
+        <div className = "banner">
+            <h1>Hello</h1>
+        </div>
     </div>
   );
 }
