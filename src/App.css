@@ -35,5 +35,16 @@
   border-left:1px solid black;
 }
 
+.card >h1 {
+  display: flex;
+  flex : 1;
+}
+
+
+
+
+
+
+
 
 

@@ -13,6 +13,9 @@ function App() {
             <h1>Hello</h1>
             <p>Good Afternoon</p>
         </div>
+        <div className = "card">
+           <h1>Card</h1>
+        </div>
     </div>
   );
 }
