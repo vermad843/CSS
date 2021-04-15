@@ -23,6 +23,11 @@ function App() {
              />
              <h1>Image</h1>
         </div>
+        <div className = "searchResult">
+           <img
+             src = "http://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg"
+              />
+        </div>
     </div>
   );
 }

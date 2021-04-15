@@ -74,6 +74,15 @@
   height : 200px;
 }
 
+.searchResult >img{
+  width : 200px;
+  height : 200px;
+}
+
+.searchResult >img:hover {
+   opacity : 0.8;
+}
+
 
 
 
