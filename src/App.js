@@ -17,6 +17,12 @@ function App() {
            <h1>Card</h1>
            <input/>
         </div>
+        <div className = "box">
+           <img
+             src = "http://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg"
+             />
+             <h1>Image</h1>
+        </div>
     </div>
   );
 }
