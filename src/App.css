@@ -35,6 +35,10 @@
   border-left:1px solid black;
 }
 
+.card {
+  margin-bottom  : 100px
+}
+
 .card >h1 {
   display: flex;
   text-transform : uppercase;
@@ -53,8 +57,16 @@
 
 
 .box {
+  width : 200px;
+  margin-bottom  : 100px;
   overflow : hidden;
   box-shadow : 0px 6px 18px -9px rgba(0, 0, 0, 0.75);
+  transition: transform 100ms ease-in;
+  cursor : pointer;
+}
+
+.box:hover {
+  transform : scale(1.07);
 }
 
 .box >img{
